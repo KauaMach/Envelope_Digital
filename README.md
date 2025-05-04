@@ -1,7 +1,13 @@
+--
+## 👥 Autores
+
+- [ KAUA MACHADO DA SILVA](https://github.com/KauaMach)
+- [ALAN NUNES VELOSO NOGUEIRA ](https://github.com/alannunes73) 
+- [MATHEUS KAIKY BRITO SILVA  ](hhttps://github.com/matheuskaiky) 
+---
 # Projeto: Envelope Digital com Criptografia RSA + AES
 
-Este projeto é uma aplicação para criação e abertura de envelopes digitais, combinando criptografia RSA e AES com diferentes modos e formatos de codificação. Ideal para proteger mensagens confidenciais de forma segura e prática.
-
+Este projeto é uma aplicação para criação e abertura de envelopes digitais, combinando criptografia RSA e AES com diferentes modos e for
 ---
 
 ## 📁 Estrutura do Projeto
