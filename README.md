@@ -181,3 +181,40 @@ Escolha: 👁️ Visualizar Arquivos Criados
 ---
 
 ## 🔄 Diagrama de Fluxo 
+![Diagrama de Fluxo](./assets/images/diagrams/DiagramaFluxo.png)
+
+--- 
+
+## 📸 Capturas de Tela
+
+### 🔑 Geração de Chaves RSA
+![Interface do Aplicativo](./assets/images/screenshots/Interface.png)
+![Geração RCA1](./assets/images/screenshots/RCA1.png)
+![Geração RCA2](./assets/images/screenshots/RCA2.png)
+![Geração RCA3](./assets/images/screenshots/RCA3.png)
+
+### ✉️ Criação de Envelope
+![Criação1](./assets/images/screenshots/Criar1.png)
+![Criação2](./assets/images/screenshots/criar2.png)
+![Criação3](./assets/images/screenshots/criar3.png)
+![Criação4](./assets/images/screenshots/cirar4.png)
+![Criação5](./assets/images/screenshots/criar5.png)
+
+### 🔓 Abertura de Envelope
+![Abertura1](./assets/images/screenshots/abrir1.png)
+![Abertura2](./assets/images/screenshots/abrir2.png)
+![Abertura3](./assets/images/screenshots/abrir3.png)
+![Abertura4](./assets/images/screenshots/abrir4.png)
+![Abertura5](./assets/images/screenshots/abrir5.png)
+![Abertura6](./assets/images/screenshots/abrir6.png)
+
+### 🔐 Descriptografia AES
+![Descriptografia1](./assets/images/screenshots/desaes1.png)
+![Descriptografia2](./assets/images/screenshots/desaes2.png)
+![Descriptografia3](./assets/images/screenshots/desaes3.png)
+
+### 🖥️ Interface Principal
+![Interface](./assets/images/screenshots/Interface.png)
+
+### 📊 Visualização
+![Visualização](./assets/images/screenshots/vualizar.png)
